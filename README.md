@@ -1,6 +1,6 @@
 # MCAT Study Platform
 
-A comprehensive, Khan Academy-inspired study platform for MCAT preparation. Track your progress across all four exam sections, access curated study resources, and get instant help from an AI tutor.
+A comprehensive study platform for MCAT preparation. Track your progress across all four exam sections, access curated study resources, and get instant help from an AI tutor.
 
 ## Features
 
