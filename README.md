@@ -2,6 +2,8 @@
 
 A comprehensive study platform for MCAT preparation. Track your progress across all four exam sections, access curated study resources, and get instant help from an AI tutor.
 
+** Found at: ** https://mcat-study-eight.vercel.app/
+
 ## Features
 
 **Progress Tracking**
