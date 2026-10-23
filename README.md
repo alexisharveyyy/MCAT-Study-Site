@@ -69,14 +69,6 @@ npm run dev
 
 Open [http://localhost:3000](http://localhost:3000) in your browser.
 
-## Deployment
-
-The easiest way to deploy is with [Vercel](https://vercel.com):
-
-1. Push this repo to GitHub
-2. Import the repository on [vercel.com/new](https://vercel.com/new)
-3. Add your `OPENAI_API_KEY` as an environment variable in the Vercel dashboard
-4. Deploy
 
 Your site will be live at `https://<your-project>.vercel.app`.
 
